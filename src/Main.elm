@@ -107,7 +107,7 @@ view model =
 
 
 
----- SUBSCRIPIONS ----
+---- SUBSCRIPTIONS ----
 
 
 subscriptions : Model -> Sub Msg
